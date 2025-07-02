@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Zodiaco Chino</string>
+
+    <!-- FormScreen -->
+    <string name="form_title">Formulario de Registro</string>
+    <string name="name_hint">Nombre</string>
+    <string name="last_name_hint">Apellido Paterno</string>
+    <string name="mother_last_name_hint">Apellido Materno</string>
+    <string name="day_hint">Día</string>
+    <string name="month_hint">Mes</string>
+    <string name="year_hint">Año</string>
+    <string name="gender_label">Sexo:</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="clean_button">Limpiar</string>
+    <string name="next_button">Siguiente</string>
+
+    <!-- ExamScreen -->
+    <string name="exam_title">Examen</string>
+    <string name="finish_exam_button">Terminar Examen</string>
+
+    <!-- ResultsScreen -->
+    <string name="hello_text">Hola %s</string>
+    <string name="age_and_zodiac_text">Tienes %d años y tu signo zodiacal chino es</string>
+    <string name="score_text">Calificación: %d/6</string>
+    <string name="back_button">Regresar al inicio</string>
+</resources>
